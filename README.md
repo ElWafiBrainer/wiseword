@@ -1,2 +1,2 @@
 # wiseword
-Odin Project #2: My second project which called "WiseWord".
+"Wiseword" is an online platform that empowers individuals with the wisdom of words, offering curated resources and practical guidance to enhance English language skills and effective communication. Master the art of eloquent expression and elevate your language journey with Wiseword.
